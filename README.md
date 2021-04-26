@@ -10,6 +10,8 @@ Hoy en día me encuentro en búsqueda laboral activa para aportar mi parte en un
 Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, Next.js, Material-UI,SQL, Sequelize entre otras.
 Si te interesa saber más sobre mi te dejo mi Perfil de Linkedin
 
+Para contactarme: gusdandrea5@gmail.com
+
 <!---
 Dandreagus/Dandreagus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
