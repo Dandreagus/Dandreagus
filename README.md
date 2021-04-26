@@ -1,3 +1,5 @@
+Hola! 👋 😄
+
 Mi nombre es Gustavo D'Andrea , comencé a estudiar programación de manera autodidacta a principios de 2020 💻.
 En 2021 ingresé en el bootcam de full-stack development de la academia Henry, y tengo planeado graduarme en mayo del 2021. 
 
