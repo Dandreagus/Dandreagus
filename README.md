@@ -7,7 +7,7 @@ Actualmente estoy trabajando en grupo en mi proyecto final realizando desde cero
 
 Hoy en día me encuentro en búsqueda laboral activa para aportar mi parte en un equipo de desarrollo y seguir aprendiendo de este maravilloso mundo de la programación. 
 
-Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, Next.js, Material-UI,SQL, Sequelize entre otras.
+Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, Material-UI,SQL, Sequelize entre otras.
 Si te interesa saber más sobre mi te dejo mi Perfil de Linkedin
 
 Para contactarme: gusdandrea5@gmail.com
