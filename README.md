@@ -1,13 +1,12 @@
 Hola! 👋 😄
 
 Mi nombre es Gustavo D'Andrea , comencé a estudiar programación de manera autodidacta a principios de 2020 💻.
-En 2021 ingresé en el bootcam de full-stack development de la academia Henry, y tengo planeado graduarme en mayo del 2021. 
+En 2021 ingresé en el bootcam de full-stack development de la academia Henry, y desde ese momento no he parado de aprender. 
 
-Actualmente estoy trabajando en grupo en mi proyecto final realizando desde cero un market-place de insumos agropecuarios, esta experiencia no solo profundizó los conocimientos adquiridos en el bootcamp, sino que además afirmar que disfruto mucho del trabajo en equipo.  
+Actualmente estoy trabajando en Coderhouse como tutor para diferentes cursos JavaScript/React/BackEnd
+Me encuentro en búsqueda laboral activa para aportar mi parte en un equipo de desarrollo y seguir aprendiendo de este maravilloso mundo de la programación. 
 
-Hoy en día me encuentro en búsqueda laboral activa para aportar mi parte en un equipo de desarrollo y seguir aprendiendo de este maravilloso mundo de la programación. 
-
-Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, Material-UI,SQL, Sequelize entre otras.
+Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, Material-UI,SQL, Node.js, Java, Git.
 Si te interesa saber más sobre mi te dejo mi Perfil de Linkedin
 
 Para contactarme: gusdandrea5@gmail.com
