@@ -6,7 +6,7 @@ En 2021 ingresé en el bootcam de full-stack development de la academia Henry, y
 Actualmente estoy trabajando como Full Stack Developer en Expert Communication Systems GmbH.
 
 Tecnologías que manejo: HTML, CSS, Javascrip,Java, Unit test, React, Redux, Express, Material-UI,SQL, Node.js, Git, Jira.
-Si te interesa saber más sobre mi te dejo mi Perfil de Linkedin
+
 
 Para contactarme: gusdandrea5@gmail.com
 
