@@ -3,10 +3,9 @@ Hola! 👋 😄
 Mi nombre es Gustavo D'Andrea , comencé a estudiar programación de manera autodidacta a principios de 2020 💻.
 En 2021 ingresé en el bootcam de full-stack development de la academia Henry, y desde ese momento no he parado de aprender. 
 
-Actualmente estoy trabajando en Coderhouse como tutor para diferentes cursos JavaScript/React/BackEnd
-Me encuentro en búsqueda laboral activa para aportar mi parte en un equipo de desarrollo y seguir aprendiendo de este maravilloso mundo de la programación. 
+Actualmente estoy trabajando como Full Stack Developer en Expert Communication Systems GmbH.
 
-Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, Material-UI,SQL, Node.js, Java, Git.
+Tecnologías que manejo: HTML, CSS, Javascrip,Java, Unit test, React, Redux, Express, Material-UI,SQL, Node.js, Git, Jira.
 Si te interesa saber más sobre mi te dejo mi Perfil de Linkedin
 
 Para contactarme: gusdandrea5@gmail.com
